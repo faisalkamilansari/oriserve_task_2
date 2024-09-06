@@ -34,3 +34,4 @@ sudo chmod +x make_dir.sh asg.sh
 ./asg.sh # for finding the 'oriserve' and making test.txt inside it
 ```
 
+Oriserve_Task_2.png
