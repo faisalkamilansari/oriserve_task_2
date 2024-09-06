@@ -33,5 +33,8 @@ sudo chmod +x make_dir.sh asg.sh
 ./make_dir.sh # for making directory only (Without test.txt)
 ./asg.sh # for finding the 'oriserve' and making test.txt inside it
 ```
+### Screenshots
 
-Oriserve_Task_2.png
+Here are screenshots showing the structure after running the script:
+
+![Directory Structure Screenshot](Oriserve_Task_2.png)
